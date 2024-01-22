@@ -1,0 +1,12 @@
+﻿moviepy
+python-telegram-bot
+googletrans-py
+SpeechRecognition
+openai
+langchain
+langchain-community
+langchain-core
+pydub
+PyYAML
+httpx==0.25.2
+ffmpeg-downloader
